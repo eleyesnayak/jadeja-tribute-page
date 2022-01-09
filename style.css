@@ -2,21 +2,20 @@ body {
   margin: 0;
   font-family: sans-serif;
 }
-
 .jadeja {
   text-align: center;
 }
-
 .image {
   width: 100%;
 }
-
 .paragraph {
   padding: 0 20px;
   text-align: justify;
   line-height: 1.5;
 }
-
 .achievements {
   text-align: center;
+}
+.list {
+  line-height: 1.5;
 }
