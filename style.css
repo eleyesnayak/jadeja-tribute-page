@@ -2,29 +2,21 @@ body {
   margin: 0;
   font-family: sans-serif;
 }
+
 .jadeja {
   text-align: center;
 }
+
 .image {
-  display: block;
-  width: 800px;
-  margin: 0 auto;
-  border-radius: 20px;
+  width: 100%;
 }
+
 .paragraph {
-  width: 800px;
-  margin: 40px auto;
-  line-height: 1.5;
+  padding: 0 20px;
   text-align: justify;
+  line-height: 1.5;
 }
+
 .achievements {
   text-align: center;
-}
-.list {
-  width: 800px;
-  margin: 0 auto;
-  text-transform: capitalize;
-}
-.list li {
-  margin-bottom: 8px;
 }
